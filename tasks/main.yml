@@ -47,7 +47,6 @@
       - libssl-dev
       - gettext
       - libpq-dev
-      - libmariadbclient-dev
       - libjpeg-dev
       - libopenjp2-7-dev
 
